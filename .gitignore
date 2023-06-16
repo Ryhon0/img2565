@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/img2565
+img2565.so
+img2565.dylib
+img2565.dll
+img2565.a
+img2565.lib
+img2565-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

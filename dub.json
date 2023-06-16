@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"ryhon"
+	],
+	"copyright": "Copyright © 2023, ryhon",
+	"dependencies": {
+		"imageformats": "~>7.0.2"
+	},
+	"description": "Convert images to RGB565 headers (for st7789 displays)",
+	"license": "GPL-3",
+	"name": "img2565"
+}
